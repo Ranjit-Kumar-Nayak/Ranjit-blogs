@@ -67,6 +67,16 @@ Agile methodology 🔄 where the development team and customers work closely tog
 
 * Think of these as tasks written from the user's perspective, describing what they want to achieve.
     
+* Duration to complete a story point
+    
+    3 points = 1 day
+    
+    5 points = 2 days
+    
+    8 points = 3 days
+    
+* All story point depends on the job role.
+    
 
 🗂 *Product Backlog*:
 
